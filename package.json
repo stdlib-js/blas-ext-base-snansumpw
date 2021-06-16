@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-ext-base-snansumpw",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Calculate the sum of single-precision floating-point strided array elements, ignoring NaN values and using pairwise summation.",
   "license": "Apache-2.0",
   "author": {
