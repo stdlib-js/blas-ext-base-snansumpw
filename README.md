@@ -20,7 +20,7 @@ limitations under the License.
 
 # snansumpw
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Calculate the sum of single-precision floating-point strided array elements, ignoring `NaN` values and using pairwise summation.
 
@@ -197,12 +197,12 @@ console.log( v );
 
 ## See Also
 
--   [`@stdlib/blas/ext/base/dnansumpw`][@stdlib/blas/ext/base/dnansumpw]: calculate the sum of double-precision floating-point strided array elements, ignoring NaN values and using pairwise summation.
--   [`@stdlib/blas/ext/base/gnansumpw`][@stdlib/blas/ext/base/gnansumpw]: calculate the sum of strided array elements, ignoring NaN values and using pairwise summation.
--   [`@stdlib/blas/ext/base/snansum`][@stdlib/blas/ext/base/snansum]: calculate the sum of single-precision floating-point strided array elements, ignoring NaN values.
--   [`@stdlib/blas/ext/base/snansumkbn2`][@stdlib/blas/ext/base/snansumkbn2]: calculate the sum of single-precision floating-point strided array elements, ignoring NaN values and using a second-order iterative Kahan–Babuška algorithm.
--   [`@stdlib/blas/ext/base/snansumors`][@stdlib/blas/ext/base/snansumors]: calculate the sum of single-precision floating-point strided array elements, ignoring NaN values and using ordinary recursive summation.
--   [`@stdlib/blas/ext/base/ssumpw`][@stdlib/blas/ext/base/ssumpw]: calculate the sum of single-precision floating-point strided array elements using pairwise summation.
+-   <span class="package-name">[`@stdlib/blas/ext/base/dnansumpw`][@stdlib/blas/ext/base/dnansumpw]</span><span class="delimiter">: </span><span class="description">calculate the sum of double-precision floating-point strided array elements, ignoring NaN values and using pairwise summation.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/gnansumpw`][@stdlib/blas/ext/base/gnansumpw]</span><span class="delimiter">: </span><span class="description">calculate the sum of strided array elements, ignoring NaN values and using pairwise summation.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/snansum`][@stdlib/blas/ext/base/snansum]</span><span class="delimiter">: </span><span class="description">calculate the sum of single-precision floating-point strided array elements, ignoring NaN values.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/snansumkbn2`][@stdlib/blas/ext/base/snansumkbn2]</span><span class="delimiter">: </span><span class="description">calculate the sum of single-precision floating-point strided array elements, ignoring NaN values and using a second-order iterative Kahan–Babuška algorithm.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/snansumors`][@stdlib/blas/ext/base/snansumors]</span><span class="delimiter">: </span><span class="description">calculate the sum of single-precision floating-point strided array elements, ignoring NaN values and using ordinary recursive summation.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/ssumpw`][@stdlib/blas/ext/base/ssumpw]</span><span class="delimiter">: </span><span class="description">calculate the sum of single-precision floating-point strided array elements using pairwise summation.</span>
 
 </section>
 
@@ -253,8 +253,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/blas-ext-base-snansumpw/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/blas-ext-base-snansumpw?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/blas-ext-base-snansumpw.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/blas-ext-base-snansumpw/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
