@@ -1,0 +1,43 @@
+{
+  "name": "@stdlib/blas-ext-base-snansumpw",
+  "version": "0.0.0",
+  "description": "Calculate the sum of single-precision floating-point strided array elements, ignoring NaN values and using pairwise summation.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/blas-ext-base-snansumpw.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "mathematics",
+    "math",
+    "blas",
+    "extended",
+    "sum",
+    "total",
+    "summation",
+    "pairwise",
+    "pw",
+    "strided",
+    "strided array",
+    "typed",
+    "array",
+    "float32",
+    "single",
+    "float",
+    "float32array"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
