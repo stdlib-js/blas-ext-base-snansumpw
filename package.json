@@ -43,14 +43,14 @@
   "dependencies": {
     "@stdlib/assert-is-error": "^0.1.1",
     "@stdlib/math-base-assert-is-nanf": "^0.1.1",
-    "@stdlib/math-base-special-floor": "^0.1.0",
-    "@stdlib/number-float64-base-to-float32": "^0.1.0",
+    "@stdlib/math-base-special-floor": "^0.1.1",
+    "@stdlib/number-float64-base-to-float32": "^0.1.1",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1",
     "@stdlib/utils-library-manifest": "^0.1.1",
     "@stdlib/utils-try-require": "^0.1.1"
   },
   "devDependencies": {
-    "@stdlib/array-float32": "^0.1.0",
+    "@stdlib/array-float32": "^0.1.1",
     "@stdlib/assert-is-browser": "^0.1.1",
     "@stdlib/bench": "^0.1.0",
     "@stdlib/math-base-assert-is-nan": "^0.1.1",
