@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-07)
+
+<section class="features">
+
+### Features
+
+-   [`e3efb84`](https://github.com/stdlib-js/stdlib/commit/e3efb84a0ec88f76fa2a799252da98165fcd7d4d) - add C `ndarray` API and refactor `blas/ext/base/snansumpw` [(#3353)](https://github.com/stdlib-js/stdlib/pull/3353)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`e3efb84`](https://github.com/stdlib-js/stdlib/commit/e3efb84a0ec88f76fa2a799252da98165fcd7d4d) - **feat:** add C `ndarray` API and refactor `blas/ext/base/snansumpw` [(#3353)](https://github.com/stdlib-js/stdlib/pull/3353) _(by Snehil Shah)_
 -   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
@@ -25,9 +36,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Snehil Shah
 
 </section>
 
@@ -49,7 +61,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 -   [`d04dcbd`](https://github.com/stdlib-js/stdlib/commit/d04dcbd6dc3b0bf4a89bd3947d317fa5ff15bb38) - **docs:** remove private annotations in C comments _(by Philipp Burckhardt)_
 -   [`ceb4943`](https://github.com/stdlib-js/stdlib/commit/ceb494351d42c2505e559a2c8aad9a120c76d0db) - **docs:** remove comments _(by Athan Reines)_
--   [`f478364`](https://github.com/stdlib-js/stdlib/commit/f47836421fb3f8e6bc9f2288d7a7dc4c546ce465) - **refactor:** update `blas/ext/base/snansumpw` to follow current projects conventions _(by AgPriyanshu18, Philipp Burckhardt)_
+-   [`f478364`](https://github.com/stdlib-js/stdlib/commit/f47836421fb3f8e6bc9f2288d7a7dc4c546ce465) - **refactor:** update `blas/ext/base/snansumpw` to follow current projects conventions _(by Priyanshu Agarwal, Philipp Burckhardt)_
 
 </details>
 
@@ -63,9 +75,9 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 A total of 3 people contributed to this release. Thank you to the following contributors:
 
--   AgPriyanshu18
 -   Athan Reines
 -   Philipp Burckhardt
+-   Priyanshu Agarwal
 
 </section>
 
