@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-14)
+## Unreleased (2025-08-09)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2cffc9d`](https://github.com/stdlib-js/stdlib/commit/2cffc9d24250e42639db3f11cf49bd4e4bc174bf) - **test:** correct test assertion messages _(by Philipp Burckhardt)_
 -   [`5653a9f`](https://github.com/stdlib-js/stdlib/commit/5653a9fe8ef8ec98cdd4968708a82b847b7d3185) - **refactor:** rename variable in `blas/ext/base/snansumpw` [(#7247)](https://github.com/stdlib-js/stdlib/pull/7247) _(by Shabareesh Shetty)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
